@@ -293,3 +293,23 @@
 08/30/2025 09:54:56 AM:INFO:****** Ending Test_003_AddCustomer Test ******
 08/30/2025 09:54:58 AM:INFO:************* Verifying Login Test **************
 08/30/2025 09:55:09 AM:INFO:************* Login Test is Passed **************
+08/31/2025 11:02:47 AM:INFO:****** Test_003_AddCustomer *******
+08/31/2025 11:02:52 AM:INFO:****** Login Successful *******
+08/31/2025 11:02:52 AM:INFO:****** Starting Add Customer Test *********
+08/31/2025 11:02:54 AM:INFO:****** Providing Customer Info *******
+08/31/2025 11:03:02 AM:INFO:****** Saving Customer Info *******
+08/31/2025 11:03:02 AM:INFO:****** Add Customer Validation Started *******
+08/31/2025 11:03:03 AM:INFO:****** Add Customer Test Passed *******
+08/31/2025 11:03:03 AM:INFO:****** Ending Test_003_AddCustomer Test ******
+08/31/2025 11:03:05 AM:INFO:************* Verifying Login Test **************
+08/31/2025 11:03:08 AM:INFO:************* Login Test is Passed **************
+08/31/2025 12:33:35 PM:INFO:****** Test_003_AddCustomer *******
+08/31/2025 12:33:38 PM:INFO:****** Login Successful *******
+08/31/2025 12:33:38 PM:INFO:****** Starting Add Customer Test *********
+08/31/2025 12:33:41 PM:INFO:****** Providing Customer Info *******
+08/31/2025 12:33:49 PM:INFO:****** Saving Customer Info *******
+08/31/2025 12:33:49 PM:INFO:****** Add Customer Validation Started *******
+08/31/2025 12:33:50 PM:INFO:****** Add Customer Test Passed *******
+08/31/2025 12:33:50 PM:INFO:****** Ending Test_003_AddCustomer Test ******
+08/31/2025 12:33:52 PM:INFO:************* Verifying Login Test **************
+08/31/2025 12:33:56 PM:INFO:************* Login Test is Passed **************
